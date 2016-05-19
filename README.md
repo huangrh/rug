@@ -6,7 +6,7 @@ Description: This meeting will focus on how to develop an R package from scratch
 
 [Link to R user group](http://www.meetup.com/Saint-Louis-RUG/events/230879633/)
 
-### Supplementing Info: 
+### Supplementing: 
 
 [Supplementing your R package with a Shiny app](http://www.r-bloggers.com/supplementing-your-r-package-with-a-shiny-app-2/)
 
